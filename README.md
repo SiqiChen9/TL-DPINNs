@@ -8,39 +8,28 @@
 ## Examples
 
 ### Reaction-Diffusion equation
-Contrast  
-![image](https://user-images.githubusercontent.com/88814995/235424556-3d458e5d-5a04-4865-996d-d52a281a9ff3.png)  
-
-Time stamps  
-![image](https://user-images.githubusercontent.com/88814995/235424580-1c3e9d9c-915e-4e93-9076-3b505c5fee4d.png)  
+![contrast_RD](https://github.com/SiqiChen9/TL-DPINNs/assets/133206108/1449aeaf-3afb-410a-8c3b-52833146390e) 
 
 ### Allen-Cahn equation
-Contrast  
-![image](https://user-images.githubusercontent.com/88814995/235424754-cf30d853-7d53-4203-8da8-a63c8f66183b.png)  
-
-Time stamps  
-![image](https://user-images.githubusercontent.com/88814995/235424768-adafd109-f569-4a7b-8332-525915c49fa8.png)  
+<img width="1109" alt="contrast_AC_eg" src="https://github.com/SiqiChen9/TL-DPINNs/assets/133206108/64cf6ae7-4c4e-4ca2-876b-a157763dfae8">
 
 ### Kuramoto–Sivashinsky (regular) equation
-Contrast  
-![image](https://user-images.githubusercontent.com/88814995/235425044-3ff79386-6a61-4f87-b566-4d5149ce91a3.png)  
+![contrast_KSr](https://github.com/SiqiChen9/TL-DPINNs/assets/133206108/2eeaed19-3be9-4be5-9f9b-b5bc5ccea8ed)
 
-Time stamps  
-![image](https://user-images.githubusercontent.com/88814995/235425105-2b1e26bf-90d4-4cf1-9c8d-b11379b7ef8c.png)  
 
-https://user-images.githubusercontent.com/88814995/235442682-63990632-713a-4418-8da7-7af5dfa22fa9.mp4
+https://github.com/SiqiChen9/TL-DPINNs/assets/133206108/ac3212e1-05d7-4a16-973b-6ced930fc59b
+
 
 ### Kuramoto–Sivashinsky (chaotic) equation
-Contrast  
-![image](https://user-images.githubusercontent.com/88814995/235425374-3ca7eb30-4fe2-4c43-8a94-f6b528fde834.png)  
+![contrast_KSc](https://github.com/SiqiChen9/TL-DPINNs/assets/133206108/d326265b-63a9-4338-a2b3-698286504161)
 
-Time stamps  
-![image](https://user-images.githubusercontent.com/88814995/235425395-fdad9fb4-04f5-4092-ac9f-a19eac5a1403.png)  
 
-https://user-images.githubusercontent.com/88814995/235442726-a70b77c2-963a-40d2-ba8c-ccf7cc035810.mp4
+https://github.com/SiqiChen9/TL-DPINNs/assets/133206108/ee78d8aa-5aac-4123-9826-895b63622459
+
 
 ### Navier-Stokes equation
-Relative $L^2$ error each time stamp  
-![image](https://user-images.githubusercontent.com/88814995/235425516-668e6179-1f52-4590-a646-2144eb604dff.png)  
+![L2_NS](https://github.com/SiqiChen9/TL-DPINNs/assets/133206108/b9e5e6f1-9453-4780-be48-4d73d25f2475)
 
-https://user-images.githubusercontent.com/88814995/235442765-a7c5d18e-26ab-4b55-a5a1-d0a6fd8e5c99.mp4
+
+https://github.com/SiqiChen9/TL-DPINNs/assets/133206108/d262f0d7-6eb8-4c24-9911-3f19b4fcb2be
+
